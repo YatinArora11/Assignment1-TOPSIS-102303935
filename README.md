@@ -22,7 +22,7 @@ Input CSV File → Validation of Inputs → Normalization → Weighted Normaliza
 The input dataset used for this assignment is a **CSV file provided by the user**.
 
 <p align="center">
-  <img src="cli_execution.png" width="80%">
+  <img src="dataset.png" width="80%">
 </p>
 
 ### Dataset Characteristics:
@@ -46,7 +46,9 @@ In Part-I, the TOPSIS algorithm was implemented as a **command-line Python progr
 ```bash
 python topsis.py data.csv "1,1,1,2" "+,+,-,+" result.csv
 ```
-
+<p align="center">
+  <img src="cli_execution.png" width="80%">
+</p>
 ---
 
 ## **4. Part-II: Python Package**
