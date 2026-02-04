@@ -21,10 +21,6 @@ Input CSV File → Validation of Inputs → Normalization → Weighted Normaliza
 
 The input dataset used for this assignment is a **CSV file provided by the user**.
 
-<p align="center">
-  <img src="dataset.png" width="80%">
-</p>
-
 ### Dataset Characteristics:
 - **Format:** CSV
 - **First Column:** Alternatives
