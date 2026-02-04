@@ -6,7 +6,7 @@ by: Yatin Arora [102303935]
 ## **1. Methodology**
 
 <p align="center">
-  <img src="screenshots/methodology.png" width="80%">
+  <img src="methodology.png" width="80%">
 </p>
 
 **Workflow:**
@@ -22,7 +22,7 @@ Input CSV File → Validation of Inputs → Normalization → Weighted Normaliza
 The input dataset used for this assignment is a **CSV file provided by the user**.
 
 <p align="center">
-  <img src="screenshots/cli_execution.png" width="80%">
+  <img src="cli_execution.png" width="80%">
 </p>
 
 ### Dataset Characteristics:
@@ -73,7 +73,7 @@ The web application allows users to execute the TOPSIS algorithm **without using
 ### Web Interface – Input Page
 
 <p align="center">
-  <img src="screenshots/web_input.png" width="60%">
+  <img src="web-ui.png" width="60%">
 </p>
 
 The user is required to provide:
@@ -93,7 +93,7 @@ The web service performs the following validations:
 ### Web Interface – Output Delivery
 
 <p align="center">
-  <img src="screenshots/web_output.png" width="60%">
+  <img src="result-output.jpeg" width="60%">
 </p>
 
 After successful execution:
